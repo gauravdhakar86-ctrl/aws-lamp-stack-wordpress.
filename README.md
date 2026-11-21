@@ -326,7 +326,7 @@ The repository bundle includes the evidence images in the `screenshots/` directo
 
 ### WordPress installer
 
-![WordPress installer with password redacted](screenshots/05-wordpress-installer.png)
+![WordPress installer with password redacted](05-wordpress-installer.png)
 
 ### Final TechBridge website
 
