@@ -310,19 +310,19 @@ The repository bundle includes the evidence images in the `screenshots/` directo
 
 ### EC2 instance
 
-![EC2 instance running](screenshots/01-ec2-instance.png)
+![EC2 instance running](01-ec2-instance.png)
 
 ### EC2 security group
 
-![Security group inbound rules](screenshots/02-security-group.png)
+![Security group inbound rules](02-security-group.png)
 
 ### RDS database
 
-![RDS database available](screenshots/03-rds-database.png)
+![RDS database available](03-rds-database.png)
 
 ### Terminal command history
 
-![Terminal command history](screenshots/04-terminal-history.png)
+![Terminal command history](04-terminal-history.png)
 
 ### WordPress installer
 
@@ -330,7 +330,7 @@ The repository bundle includes the evidence images in the `screenshots/` directo
 
 ### Final TechBridge website
 
-![TechBridge website](screenshots/06-techbridge-website.png)
+![TechBridge website](06-techbridge-website.png)
 
 ---
 
