@@ -41,11 +41,11 @@ This project demonstrates how to host a WordPress website using a traditional LA
 **Website name shown in output:** `techbridge`  
 **AWS Region shown in the lab:** Asia Pacific (Mumbai), `ap-south-1`
 
+
+
 ## Architecture
 
-```text
-            ![Architecture](./Architecture.png)
-```
+<img src="./Architecture.png" alt="AWS LAMP Stack Architecture" width="800"/>
 
 The EC2 instance serves the WordPress website. WordPress connects to the MySQL database hosted separately on Amazon RDS.
 
