@@ -44,7 +44,7 @@ This project demonstrates how to host a WordPress website using a traditional LA
 ## Architecture
 
 ```text
-            ![Architecture](Architecture.png)
+            ![Architecture](Architecture.png).
 ```
 
 The EC2 instance serves the WordPress website. WordPress connects to the MySQL database hosted separately on Amazon RDS.
