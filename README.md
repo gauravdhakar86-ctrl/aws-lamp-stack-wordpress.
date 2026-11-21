@@ -44,28 +44,7 @@ This project demonstrates how to host a WordPress website using a traditional LA
 ## Architecture
 
 ```text
-                         Internet
-                            |
-                      HTTP : TCP/80
-                            |
-                 +----------------------+
-                 |     Amazon EC2       |
-                 |      LampStack1      |
-                 |                      |
-                 |    Amazon Linux      |
-                 |    Apache / httpd    |
-                 |        PHP           |
-                 |     WordPress        |
-                 +----------------------+
-                            |
-                     MySQL : TCP/3306
-                            |
-                 +----------------------+
-                 |      Amazon RDS      |
-                 |      database-2      |
-                 |        MySQL         |
-                 |   Private database   |
-                 +----------------------+
+            (TechBridge WordPress on AWS Architecture.png)
 ```
 
 The EC2 instance serves the WordPress website. WordPress connects to the MySQL database hosted separately on Amazon RDS.
